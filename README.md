@@ -1,1 +1,2 @@
-# cybersecurity-bootcamp-shapeai
+# Cybersecurity Bootcamp ShapeAI
+
